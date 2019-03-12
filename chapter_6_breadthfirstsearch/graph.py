@@ -31,4 +31,3 @@ graph["thom"] = []
 graph["johnny"] = []
 
 search("you")
-
